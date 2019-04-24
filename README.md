@@ -7,3 +7,5 @@ Try out git and all that
 * list
 - list
 ## Notes on unhappy gitting
+
+*minor change*
